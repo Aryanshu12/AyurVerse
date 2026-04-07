@@ -1,16 +1,28 @@
-# ayurverse
+This project is a Flutter-based healthcare application designed to provide users with easy access to medical services and personal health management tools. The app integrates consultation, tracking, and wellness features into a single, user-friendly platform.
 
-A new Flutter project.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🧑‍⚕️ Online doctor consultation (chat/video)
 
-A few resources to get you started if this is your first Flutter project:
+💊 Medicine reminders and prescription tracking
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📊 Health monitoring with visual insights
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧘 Wellness tips (diet, exercise, mental health)
+
+🔐 Secure authentication and user profiles
+
+🛠 Tech Stack
+
+Frontend: Flutter
+
+Backend: Firebase / REST APIs
+
+Database: Firestore / MongoDB
+
+Authentication: Firebase Auth
+
+🎯 Purpose
+
+The goal of this project is to make healthcare more accessible, efficient, and user-centric, especially for users who cannot frequently visit healthcare facilities.
